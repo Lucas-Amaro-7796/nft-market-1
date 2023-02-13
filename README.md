@@ -7,7 +7,7 @@ Progamadores Carioca - Feito por Wando Barros e Lucas Amaro
 NFT Market consite num site de comércio de artes digitais de tokens fungiveis, onde os os visitantes podem criar um usuário e comercializar seus NFTS
 
 # Dependencias
-readme/dependencias.png
+<img src="https://github.com/Wando2/nft-market/blob/0c5609c283776d7d7afb2bb15f4059a4ab986ec1/readme/dependencias.png" />
 
 # Como inicializar
 Crie uma base de dados MYSQL com o nome "store"
@@ -31,7 +31,14 @@ http://localhost:3000/logout (desconectar da sessão)
 # Relacionamentos
 
 <img src="https://github.com/Wando2/nft-market/blob/10eeee4d549d169b1f44a15381d665310eb6e1dd/readme/Relacionamentos.png" />
+ 
  # Screenshots
+ <img src="https://github.com/Wando2/nft-market/blob/0c5609c283776d7d7afb2bb15f4059a4ab986ec1/readme/home1.png" />
+ <img src="https://github.com/Wando2/nft-market/blob/0c5609c283776d7d7afb2bb15f4059a4ab986ec1/readme/home2.png" />
+ <img src="https://github.com/Wando2/nft-market/blob/0c5609c283776d7d7afb2bb15f4059a4ab986ec1/readme/create.png" />
+ <img src="https://github.com/Wando2/nft-market/blob/0c5609c283776d7d7afb2bb15f4059a4ab986ec1/readme/editar.png" />
+ <img src="https://github.com/Wando2/nft-market/blob/0c5609c283776d7d7afb2bb15f4059a4ab986ec1/readme/view.png" />
+ <img src="https://github.com/Wando2/nft-market/blob/0c5609c283776d7d7afb2bb15f4059a4ab986ec1/readme/estrutura.png" />
  
  
  
