@@ -5,6 +5,7 @@ Progamadores Carioca - Feito por Wando Barros e Lucas Amaro
 # Sobre o Projeto
 
 NFT Market consite num site de comércio de artes digitais de tokens fungiveis, onde os os visitantes podem criar um usuário e comercializar seus NFTS
+Feito com Sequelize ORM, MySQL, e Express.
 
 # Dependencias
 <img src="https://github.com/Wando2/nft-market/blob/0c5609c283776d7d7afb2bb15f4059a4ab986ec1/readme/dependencias.png" />
@@ -26,6 +27,8 @@ http://localhost:3000/create (criação de NFT)
 http://localhost:3000/edit (editar NFT)
 http://localhost:3000/view (ver unico nft)
 http://localhost:3000/logout (desconectar da sessão)
+
+Obs : Para navegar na rota create e edit, é necessário estar autenticado com um usuario.
 
 
 # Relacionamentos
