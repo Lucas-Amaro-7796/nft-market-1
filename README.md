@@ -30,7 +30,7 @@ http://localhost:3000/logout (desconectar da sessão)
 
 # Relacionamentos
 
-readme/Relacionamentos.png
+[readme/Relacionamentos.png](https://github.com/Wando2/nft-market/blob/10eeee4d549d169b1f44a15381d665310eb6e1dd/readme/Relacionamentos.png)
 
  # Screenshots
  
